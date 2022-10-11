@@ -2,13 +2,13 @@
 <head>
 <link rel="icon" href="car.jpg">
 <meta charset="UTF-8">
-   <!-- <title> Responsive Contact Us Form  | CodingLab </title>-->
+  
     <link rel="stylesheet" href="style.css">
-    <!-- Fontawesome CDN Link -->
+   
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title> Airbag Module Repair</title>
-<!-- Apply styles to html elements -->
+
 <style>
 *{
 margin:0; padding:0; boxsizing:border-box;
@@ -223,11 +223,11 @@ body{
 <!--Let us create the main section now, if you are not using html5, use div tags-->
 <main>
 <section>
-<!--Check out the styling elements for this div class - change_text -->
+
 <div class = "change_text"><b>WELCOME TO AIRBAG MODULE REPAIR</b></div>
 <!--make text italic-->
 <p><i>All your airbag module needs in one place</i></p><br>
-<!--create a button, if there is a form, you can specify an action on click-->
+
 
 </div>
 </section>
